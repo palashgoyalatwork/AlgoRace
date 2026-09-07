@@ -145,7 +145,9 @@ AlgoRace/
 ├── algorithms.py
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+├── .gitignore
+└── assets/
+    └── screenshot.jpeg
 ```
 
 ### `app.py`
@@ -231,7 +233,7 @@ For the clearest live visualization, smaller datasets are recommended.
 A simple race could be:
 
 ```text
-Bubble Sort  🆚  Quick Sort
+Bubble Sort 🆚 Quick Sort
 ```
 
 Both receive the same input:
@@ -254,13 +256,7 @@ That difference is what AlgoRace is designed to visualize.
 
 ## 📸 Screenshots
 
-Add project screenshots here after capturing the final application.
-
-Example:
-
-```markdown
 ![AlgoRace Dashboard](assets/screenshot.jpeg)
-```
 
 ---
 
